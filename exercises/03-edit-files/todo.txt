@@ -1,0 +1,11 @@
+My To-Do List
+=============
+
+[x] Drink a glass of water
+[x] Reply to emails
+[ ] Go for a 20-minute walk
+[ ] Read for 15 minutes before bed
+[ ] Tidy up the desk
+[ ] Plan meals for the week
+[ ] Check in with a friend
+[ ] Learn CLI commands

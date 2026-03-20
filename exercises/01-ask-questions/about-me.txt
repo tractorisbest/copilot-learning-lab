@@ -1,0 +1,18 @@
+Name: Alex
+Age: 28
+Location: New York City
+
+Favorite things:
+- Coffee in the morning
+- Long walks in the park
+- Watching documentary films
+- Playing board games with friends
+- Learning new things
+
+Goals for this year:
+- Get better at using the computer
+- Learn something new every week
+- Cook more meals at home
+- Read at least 10 books
+
+Fun fact: I once stayed up all night to watch a meteor shower.

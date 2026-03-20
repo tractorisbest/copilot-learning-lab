@@ -1,0 +1,41 @@
+# .gitignore - Files to exclude from Git version control
+
+# Operating System
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.env.local
+
+# OS Temporary Files
+$RECYCLE.BIN/
+.Spotlight-V100
+.Trashes
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Personal Notes / Session Files
+session-notes.md
+.copilot/
+*.tmp
+
+# Generated Files
+dist/
+build/
