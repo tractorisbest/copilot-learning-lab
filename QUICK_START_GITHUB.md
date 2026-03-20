@@ -1,5 +1,18 @@
 # ⚡ Quick Start — Push to GitHub in 5 Minutes
 
+## 🚀 Fastest Way — Use the Provided Script
+
+Simply run this file and follow the prompts:
+```powershell
+.\RUN_THIS_FINAL_STEP.ps1
+```
+
+It will guide you through everything!
+
+---
+
+## Or Follow Manual Steps Below
+
 ## Step 1️⃣ Create GitHub Repository
 
 1. Go to **https://github.com/new**
